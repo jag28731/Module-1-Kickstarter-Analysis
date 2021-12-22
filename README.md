@@ -1,2 +1,2 @@
-# Module-1-Kickstarter-Analysis
-Module 1 Kickstarter Analysis
+# An Analysis of Kickstarter Campaigns
+Module 1, Analysis of Kickstarter Campaigns
